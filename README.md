@@ -1,1 +1,1 @@
-# Daniels_Project
+# CanvasTemplate
